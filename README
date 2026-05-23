@@ -1,0 +1,27 @@
+# Employee Salary Prediction Pipeline
+
+This project predicts employee salary using Machine Learning Pipeline in Scikit-learn.
+
+## Features
+- Missing value handling
+- Feature scaling
+- Pipeline implementation
+- ColumnTransformer
+- Linear Regression model
+
+## Evaluation Metrics
+- MAE
+- RMSE
+- R² Score
+
+## Libraries Used
+- pandas
+- numpy
+- scikit-learn
+- joblib
+
+## Files
+- Salary.csv
+- train_pipeline.ipynb
+- predict_salary.ipynb
+- salary_pipeline.pkl
